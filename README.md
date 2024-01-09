@@ -16,7 +16,7 @@ This AppleScript is designed to run during macOS startup to automatically open a
 1. **Opening AppleScript Editor:** Copy the script into AppleScript Editor (found in Applications > Utilities) and save it.
    
 2. **Setting Script to Run at Startup:**
-   - Open "System Preferences" > "Users & Groups" > "Login Items".
+   - Open "System Preferences" > "Users & Groups" > "Login Items" or "System Preferences" > "General" > "Login Items"
    - Click the "+" button and add the saved script to the list. Ensure it's checked for execution on login.
 
 3. **Launching Applications Minimized:**
