@@ -1,7 +1,7 @@
 -- Launch Mail.app
 tell application "Mail" to launch -- Opens the Mail application
 
-delay 1 -- Adds a delay to ensure proper launching before hiding
+delay 2 -- Adds a delay to ensure proper launching before hiding
 
 -- Minimize Mail.app window
 tell application "Finder"
@@ -11,7 +11,7 @@ end tell
 -- Launch Calendar.app
 tell application "Calendar" to launch -- Opens the Calendar application
 
-delay 1 -- Adds a delay to ensure proper launching before hiding
+delay 2 -- Adds a delay to ensure proper launching before hiding
 
 -- Minimize Calendar.app window
 tell application "Finder"
